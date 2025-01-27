@@ -1,12 +1,12 @@
 export const dbConfig = {
 
-    dbName: "<database_name>",
+    dbName: "social-app",
 
-    host: "<mongodb-cluster-url>",
+    host: "cluster0.dy5b1.mongodb.net",
 
     credentials: {
-        user: "<username>",
-        pw: "<password>"
+        user: "eniim",
+        pw: "brothayolaho1"
     }
 
 }
